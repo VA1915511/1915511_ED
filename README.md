@@ -1,5 +1,5 @@
 # INTRODUCCION
-Hola, soy __*Víctor Aznar*__. 
+Hola, soy __*Víctor Aznar*__ y tengo *18* años. **Sobre Mi:** 
 
 + Me meti al modulo de __Informatica__ porque desde pequeño me ha gustado mucho todo el tema de los ordenadores.
 
