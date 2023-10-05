@@ -1,5 +1,7 @@
 [Introduccion](#INTRODUCCION)
 
+[Conocimientos](#CONOCIMIENTOS)
+
 # INTRODUCCION
 Hola, soy __*Víctor Aznar*__ y tengo *18* años. **Sobre Mi:** 
 
@@ -11,3 +13,4 @@ Hola, soy __*Víctor Aznar*__ y tengo *18* años. **Sobre Mi:**
 
 <hr>
 
+## CONOCIMIENTOS
