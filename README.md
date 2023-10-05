@@ -1,3 +1,5 @@
+[Introduccion](#INTRODUCCION)
+
 # INTRODUCCION
 Hola, soy __*Víctor Aznar*__ y tengo *18* años. **Sobre Mi:** 
 
@@ -6,3 +8,6 @@ Hola, soy __*Víctor Aznar*__ y tengo *18* años. **Sobre Mi:**
 + Soy __*Tecnico Informatico de Nivel medio*__ y ahora mismo estoy cursando el grado superior de la misma competencia.
 
 + En mi tiempo libre me gusta jugar a videojuegos e ir al gimnasio
+
+<hr>
+
