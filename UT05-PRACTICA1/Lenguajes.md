@@ -7,3 +7,6 @@ lo que significa que no necesitas declarar el tipo de una variable antes de usar
 si no se tiene cuidado.
 En JavaScript, las funciones son tratadas como ciudadanos de primera clase, lo que significa que puedes pasarlas como argumentos a otras funciones,
 devolverlas desde otras funciones y almacenarlas en variables.
+
+
+PyCharm podría ser el mejor IDE para Python en términos de asistencia de código. No solo tiene excelente funciones de marcación de sintaxis y errores, pero también ofrece reparos rápidos y excelentes herramientas de navegación.
